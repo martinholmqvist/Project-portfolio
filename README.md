@@ -9,5 +9,6 @@ This thesis investigates if house price prediction models perform better when ad
 
 ### A comparative analysis of ridge and lasso regularization in predicting student performance
 In this project me and Max Hansson compared the performance in predicting students grade using penalized regression models where we had high multicollinearity and many covariates as input data.
+![Ridge and Lasso comparison](Ridge_Lasso_comparison.pdf)
 
 
