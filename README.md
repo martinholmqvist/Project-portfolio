@@ -17,4 +17,4 @@ In this project we tried to create an ARIMA model that would predict the amount 
 
 ### Adhd and cancer analysis
 In this project we analysed cases of cancer over time as well as cases of adhd cases.
-![Covid-19 predictions](hej)
+![Cancer and adhd project](https://github.com/martinholmqvist/Project-portfolio/blob/main/project-assignment.html)
