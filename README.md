@@ -11,4 +11,6 @@ This thesis investigates if house price prediction models perform better when ad
 In this project me and Max Hansson compared the performance in predicting students grade using penalized regression models where we had high multicollinearity and many covariates as input data.
 ![Ridge and Lasso comparison](Ridge_Lasso_comparison.pdf)
 
+### A timeseries analysis on predicting covid cases
+In this project we tried to create an ARIMA model that would predict the amount of covid cases per week and compared these models to a naive model.
 
