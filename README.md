@@ -15,3 +15,6 @@ In this project me and Max Hansson compared the performance in predicting studen
 In this project we tried to create an ARIMA model that would predict the amount of covid cases per week and compared these models to a naive model.
 ![Covid-19 predictions](https://github.com/martinholmqvist/Project-portfolio/blob/main/Covid%20project.pdf)
 
+### Adhd and cancer analysis
+In this project we analysed cases of cancer over time as well as cases of adhd cases.
+![Covid-19 predictions](hej)
