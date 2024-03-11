@@ -1,4 +1,4 @@
-# Master Student in Statistics and Data science
+# Martin Holmqvist: Master Student in Statistics and Data science
 
 #### For the following projects I have used the software R.
 
