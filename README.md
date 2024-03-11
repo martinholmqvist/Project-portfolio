@@ -13,5 +13,5 @@ In this project me and Max Hansson compared the performance in predicting studen
 
 ### A timeseries analysis on predicting covid cases
 In this project we tried to create an ARIMA model that would predict the amount of covid cases per week and compared these models to a naive model.
-![Covid-19 predictions](Covid project.pdf)
+![Covid-19 predictions](https://github.com/martinholmqvist/Project-portfolio/blob/main/Covid%20project.pdf)
 
