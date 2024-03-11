@@ -1,6 +1,6 @@
 # Master Student in Statistics and Data science
 
-#### For the following project I have used the software R.
+#### For the following projects I have used the software R.
 
 ## Projects
 ### Improving House Price Prediction Models: Exploring the Impact of Macroeconomic Features
